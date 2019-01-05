@@ -1,0 +1,3 @@
+[template]
+src = "photoanna.tmpl"
+dest = "/etc/nginx/sites-available/photoanna"
